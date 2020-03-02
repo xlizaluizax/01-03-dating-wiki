@@ -8,7 +8,7 @@ media_library:
   name: uploadcare
   config:
     publicKey: 9e68bda3ff2a3eea5253
-    multiple: false
+    multiple: true
     tabs: 'file camera url facebook gdrive'
     effects: 'crop,rotate,enhance,grayscale'
     imageShrink: '2000x2000'
